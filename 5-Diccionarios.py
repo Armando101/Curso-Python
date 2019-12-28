@@ -114,11 +114,3 @@ print(valor_eliminado)
 # También es posible eliminar los valores del diccionario con el método clear
 diccionario.clear()
 print(diccionario)
-
-
-
-
-
-
-
-
